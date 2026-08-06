@@ -4,13 +4,9 @@
 
 ![Start Menu](Images/start_menu.png)
 
----
-
 ### 🎮 Gameplay
 
 ![Gameplay](Images/gameplay.png)
-
----
 
 ### 🏆 End Game Screen
 
